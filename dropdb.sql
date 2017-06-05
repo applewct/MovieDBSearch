@@ -1,0 +1,9 @@
+DROP TABLE UserRates;
+DROP TABLE UserTags;
+DROP TABLE MovieTags;
+DROP TABLE MovieCountries;
+DROP TABLE MovieGenres;
+DROP TABLE MovieDirectors;
+DROP TABLE MovieActors;
+DROP TABLE Tags;
+DROP TABLE Movies;
